@@ -1,4 +1,4 @@
-TimeHandlr.js!
+TimeHandlr.js
 ==============
 
 A timed events library derived from Full Screen Mario. It keeps a listing of functions to execute at certain timeouts and intervals, separate from Javascript's native methods.
